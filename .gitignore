@@ -1,0 +1,4 @@
+node_modules
+iris-alerts.db
+irisdb.duckdb
+irisdb.duckdb.wal
